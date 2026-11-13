@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/34830885/README.1.md)
 # Hi, I'm Mahmoud Sherbeny 👋
 
 **Oracle DBA** | Oracle Database 19c / 12c | RAC · ASM · Data Guard · RMAN
